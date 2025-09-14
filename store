@@ -216,4 +216,6 @@ export default function AirpodStore() {
     </div>
   );
 }
+npm run build
+
 
